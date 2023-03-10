@@ -1,1 +1,2 @@
-git diff HEAD~1
+#!/git/bash
+["git pull"] Touch up_to_date
